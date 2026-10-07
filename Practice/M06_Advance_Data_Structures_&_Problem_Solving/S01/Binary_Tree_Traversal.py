@@ -42,3 +42,5 @@ def Post_Order(root):
         print(root.data,end = " -> ")
 print("\n Post_Order Traversal")
 Post_Order(root)
+
+print()
